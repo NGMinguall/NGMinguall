@@ -1,0 +1,5 @@
+- 👋 Olá! Sou @NGMinguall
+- 👀 Sou interessado em fazer músicas
+- 🌱 Estou entrando no #php
+- 🆖 Pior desenhador da Ng
+- 📫 ...
